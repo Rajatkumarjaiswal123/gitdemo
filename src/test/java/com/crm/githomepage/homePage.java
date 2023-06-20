@@ -4,7 +4,7 @@ public class homePage {
 	
 	public void loginpage()
 	{
-		System.out.println("mind ur own bussiness");
+		System.out.println("done");
 		
 	}
 
