@@ -7,5 +7,9 @@ public class homePage {
 		System.out.println("done");
 		
 	}
+	public void logoutPage()
+	{
+		System.out.println("logoutPage");
+	}
 
 }
