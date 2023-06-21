@@ -7,5 +7,14 @@ public class homePage {
 		System.out.println("done");
 		
 	}
+	public void logoutPage()
+	{
+		System.out.println("logoutPage");
+	}
+	public void quitPage()
+	{
+		System.out.println("quitePage");
+		
+	}
 
 }
