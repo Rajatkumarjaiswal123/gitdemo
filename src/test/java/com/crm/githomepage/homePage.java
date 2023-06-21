@@ -11,5 +11,10 @@ public class homePage {
 	{
 		System.out.println("logoutPage");
 	}
+	public void quitPage()
+	{
+		System.out.println("quitePage");
+		
+	}
 
 }
